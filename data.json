@@ -246,6 +246,31 @@
       "en": "Work experience"
     },
     "experiences": {
+      "experience_7": {
+        "title": {
+          "hr": "Marajin dečko / Trajni lak Maraja d.d.",
+          "en": "Boyfriend of Maraja / Trajni lak Maraja d.d."
+        },
+        "duration": {
+          "from": "Mar 2020",
+          "to": {
+            "hr": "Trenutno",
+            "en": "Current"
+          }
+        },
+        "description_1": {
+          "hr": "Stariji tatica.",
+          "en": "Senior daddy."
+        },
+        "description_2": {
+          "hr": "Odgovornosti: sve brate mili",
+          "en": "Responsibilities: everything bro"
+        },
+        "description_3": {
+          "hr": "",
+          "en": ""
+        }
+      },
       "experience_6": {
         "title": {
           "hr": "Software developer / Ekobit d.o.o.",
