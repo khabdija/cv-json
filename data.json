@@ -1,0 +1,517 @@
+{
+  "person": {
+    "full_name": {
+      "hr": "Karlo Habdija",
+      "en": "Karlo Habdija"
+    },
+    "profession": {
+      "hr": "Software Developer",
+      "en": "Software Developer"
+    },
+    "location": {
+      "hr": "Zagreb, Hrvatska",
+      "en": "Zagreb, Croatia"
+    },
+    "email": {
+      "hr": "karlohabdija@gmail.com",
+      "en": "karlohabdija@gmail.com"
+    },
+    "pdf": {
+      "hr": "Preuzmi PDF",
+      "en": "Download PDF"
+    }
+  },
+
+  "education": {
+    "section_title": {
+      "hr": "Obrazovanje",
+      "en": "Education"
+    },
+    "schools": {
+      "school_4": {
+        "name": {
+          "hr": "Fakultet organizacije i informatike Varaždin",
+          "en": "Faculty of Organization and Informatics Varaždin"
+        },
+        "year": {
+          "from": "2021",
+          "to": {
+            "hr": "2023",
+            "en": "2023"
+          }
+        },
+        "major_1": {
+          "hr": "Diplomski studij informatike",
+          "en": "Master's degree in Informatics"
+        },
+        "major_2": {
+          "hr": " - Organizacija poslovnih sustava (OPS)",
+          "en": " - Business Systems Organization (OPS)"
+        },
+        "thesis_1": {
+          "hr": "Tema diplomskog rada: \"Usporedba kontrolinga u poduzećima koja koriste ERP sustav\"",
+          "en": "Master's thesis: \"Comparison of controlling in companies that use an ERP system\""
+        },
+        "thesis_2": {
+          "hr": "Diplomski rad obranjen 14.09.2023.",
+          "en": "Thesis defended on 14.09.2023."
+        }
+      },
+      "school_3": {
+        "name": {
+          "hr": "Fakultet organizacije i informatike Varaždin",
+          "en": "Faculty of Organization and Informatics Varaždin"
+        },
+        "year": {
+          "from": "2018",
+          "to": {
+            "hr": "2021",
+            "en": "2021"
+          }
+        },
+        "major_1": {
+          "hr": "Preddiplomski studij informatike",
+          "en": "Bachelor's degree in Informatics"
+        },
+        "major_2": {
+          "hr": " - Poslovni sustavi (PS)",
+          "en": " - Business Systems (PS)"
+        },
+        "thesis_1": {
+          "hr": "Tema završnog rada: \"Utjecaj piratskog sadržaja na industriju videoigara i filmsku industriju\"",
+          "en": "Bachelor's thesis: \"The impact of piracy on the Video Game Industry and the Film Industry\""
+        },
+        "thesis_2": {
+          "hr": "Završni rad obranjen 03.09.2021.",
+          "en": "Thesis defended on 03.09.2021."
+        }
+      },
+      "school_2": {
+        "name": {
+          "hr": "Gimnazija Ivana Zakmardija Dijankovečkoga Križevci",
+          "en": "Gimnazija Ivana Zakmardija Dijankovečkoga Križevci"
+        },
+        "year": {
+          "from": "2014",
+          "to": {
+            "hr": "2018",
+            "en": "2018"
+          }
+        },
+        "major_1": {
+          "hr": "Srednjoškolsko obrazovanje",
+          "en": "Secondary school diploma"
+        },
+        "major_2": {
+          "hr": " - Opća gimnazija",
+          "en": " - General-education secondary school"
+        },
+        "thesis_1": {
+          "hr": "",
+          "en": ""
+        },
+        "thesis_2": {
+          "hr": "",
+          "en": ""
+        }
+      },
+      "school_1": {
+        "name": {
+          "hr": "Osnovna škola \"Vladimir Nazor\" Križevci",
+          "en": "Osnovna škola \"Vladimir Nazor\" Križevci"
+        },
+        "year": {
+          "from": "2006",
+          "to": {
+            "hr": "2014",
+            "en": "2014"
+          }
+        },
+        "major_1": {
+          "hr": "Osnovnoškolsko obrazovanje",
+          "en": "Primary school diploma"
+        },
+        "major_2": {
+          "hr": "",
+          "en": ""
+        },
+        "thesis_1": {
+          "hr": "",
+          "en": ""
+        },
+        "thesis_2": {
+          "hr": "",
+          "en": ""
+        }
+      }
+    }
+  },
+
+  "languages": {
+    "section_title": {
+      "hr": "Jezici",
+      "en": "Languages"
+    },
+    "all_languages": {
+      "language_main": {
+        "hr": "Hrvatski",
+        "en": "Croatian",
+        "percentage": "100%"
+      },
+      "language_1": {
+        "hr": "Engleski",
+        "en": "English",
+        "percentage": "90%"
+      },
+      "language_2": {
+        "hr": "Južnoslavenski jezici",
+        "en": "South Slavic languages",
+        "percentage": "80%"
+      },
+      "language_3": {
+        "hr": "Njemački",
+        "en": "German",
+        "percentage": "30%"
+      },
+      "language_4": {
+        "hr": "Francuski",
+        "en": "French",
+        "percentage": "30%"
+      }
+    }
+  },
+
+  "skills": {
+    "section_title": {
+      "hr": "Znanja i vještine",
+      "en": "Skills"
+    },
+    "all_skills": {
+      "skill_1": {
+        "hr": "C#",
+        "en": "C#",
+        "percentage": "95%"
+      },
+      "skill_2": {
+        "hr": "Rad s ljudima",
+        "en": "People skills",
+        "percentage": "95%"
+      },
+      "skill_3": {
+        "hr": "Angular",
+        "en": "Angular",
+        "percentage": "90%"
+      },
+      "skill_4": {
+        "hr": "Microsoft Office",
+        "en": "Microsoft Office",
+        "percentage": "90%"
+      },
+      "skill_5": {
+        "hr": "JavaScript",
+        "en": "JavaScript",
+        "percentage": "85%"
+      },
+      "skill_6": {
+        "hr": "SQL baze podataka",
+        "en": "SQL databases",
+        "percentage": "85%"
+      },
+      "skill_7": {
+        "hr": "HTML",
+        "en": "HTML",
+        "percentage": "80%"
+      },
+      "skill_8": {
+        "hr": "React",
+        "en": "React",
+        "percentage": "80%"
+      },
+      "skill_9": {
+        "hr": "C++",
+        "en": "C++",
+        "percentage": "75%"
+      },
+      "skill_10": {
+        "hr": "Python",
+        "en": "Python",
+        "percentage": "75%"
+      }
+    }
+  },
+
+  "work_experience": {
+    "section_title": {
+      "hr": "Radno iskustvo",
+      "en": "Work experience"
+    },
+    "experiences": {
+      "experience_6": {
+        "title": {
+          "hr": "Software developer / Ekobit d.o.o.",
+          "en": "Software developer / Ekobit d.o.o."
+        },
+        "duration": {
+          "from": "Jul 2022",
+          "to": {
+            "hr": "Trenutno",
+            "en": "Current"
+          }
+        },
+        "description_1": {
+          "hr": "Junior full stack software developer.",
+          "en": "Junior full stack software developer."
+        },
+        "description_2": {
+          "hr": "Alati i tehnologije: MS Visual Studio, MS Visual Studio Code, pgAdmin, SourceTree, Docker, DevOps, C#, HTML, CSS, Javascript, Typescript, SQL, Git, Angular, MS SSMS, MS SQL, PostgreSQL.",
+          "en": "Tools and technologies: MS Visual Studio, MS Visual Studio Code, pgAdmin, SourceTree, Docker, DevOps, C#, HTML, CSS, Javascript, Typescript, SQL, Git, Angular, MS SSMS, MS SQL, PostgreSQL."
+        },
+        "description_3": {
+          "hr": "",
+          "en": ""
+        }
+      },
+      "experience_5": {
+        "title": {
+          "hr": "Održavanje korisničkih računa / Iskon Internet d.d.",
+          "en": "User account maintenance / Iskon Internet d.d."
+        },
+        "duration": {
+          "from": "Jul 2021",
+          "to": {
+            "hr": "Jun 2022",
+            "en": "Jun 2022"
+          }
+        },
+        "description_1": {
+          "hr": "Administracija, korisnička podrška i rad na održavanju korisničkih računa.",
+          "en": "Providing customer support and working on general maintenance of user accounts."
+        },
+        "description_2": {
+          "hr": "",
+          "en": ""
+        },
+        "description_3": {
+          "hr": "",
+          "en": ""
+        }
+      },
+      "experience_4": {
+        "title": {
+          "hr": "Korisnička podrška / CITY CONNECT d.o.o.",
+          "en": "Customer support / CITY CONNECT d.o.o."
+        },
+        "duration": {
+          "from": "Dec 2020",
+          "to": {
+            "hr": "Jan 2021",
+            "en": "Jan 2021"
+          }
+        },
+        "description_1": {
+          "hr": "Rad u korisničkoj podršci za sustav e-propusnica tijekom ograničenja putovanja između gradova zbog COVID-a.",
+          "en": "Providing customer support for e-propusnica system during COVID travel restrictions in Croatia."
+        },
+        "description_2": {
+          "hr": "",
+          "en": ""
+        },
+        "description_3": {
+          "hr": "",
+          "en": ""
+        }
+      },
+      "experience_3": {
+        "title": {
+          "hr": "Telefonska prodaja / CITY CONNECT d.o.o.",
+          "en": "Telephone sales / CITY CONNECT d.o.o."
+        },
+        "duration": {
+          "from": "Aug 2020",
+          "to": {
+            "hr": "Oct 2020",
+            "en": "Oct 2020"
+          }
+        },
+        "description_1": {
+          "hr": "Telefonska prodaja dopunskog i dodatnog zdravstvenog osiguranja za Croatia Osiguranje.",
+          "en": "Selling health insurance via telephone for Croatia Osiguranje."
+        },
+        "description_2": {
+          "hr": "",
+          "en": ""
+        },
+        "description_3": {
+          "hr": "",
+          "en": ""
+        }
+      },
+      "experience_2": {
+        "title": {
+          "hr": "Održavanje web stranice / INFOING d.o.o.",
+          "en": "Website maintenance / INFOING d.o.o."
+        },
+        "duration": {
+          "from": "Oct 2017",
+          "to": {
+            "hr": "Trenutno",
+            "en": "Current"
+          }
+        },
+        "description_1": {
+          "hr": "Povremeno pro bono održavanje web mjesta obiteljskog poduzeća.",
+          "en": "Occasional pro bono maintenance of family business website."
+        },
+        "description_2": {
+          "hr": "",
+          "en": ""
+        },
+        "description_3": {
+          "hr": "",
+          "en": ""
+        }
+      },
+      "experience_1": {
+        "title": {
+          "hr": "Tehničar zvuka i rasvjete / Pučko Otvoreno Učilište Križevci",
+          "en": "Sound and light technician / Pučko Otvoreno Učilište Križevci"
+        },
+        "duration": {
+          "from": "Jan 2016",
+          "to": {
+            "hr": "Jul 2017",
+            "en": "Jul 2017"
+          }
+        },
+        "description_1": {
+          "hr": "Tehnička podrška pri održavanju predstava i ostalih događanja u organizaciji POU Križevci.",
+          "en": "Technical support for theatre shows organised by POU Križevci."
+        },
+        "description_2": {
+          "hr": "",
+          "en": ""
+        },
+        "description_3": {
+          "hr": "",
+          "en": ""
+        }
+      }
+    }
+  },
+
+  "projects": {
+    "section_title": {
+      "hr": "Projekti",
+      "en": "Projects"
+    },
+    "all_projects": {
+      "project_3": {
+        "title": {
+          "hr": "CryptoTracker / Osobni projekt",
+          "en": "CryptoTracker / Personal project"
+        },
+        "duration": {
+          "from": "Feb 2022",
+          "to": {
+            "hr": "Trenutno",
+            "en": "Current"
+          }
+        },
+        "description_1": {
+          "hr": "Izrada .NET Framework aplikacije koja podatke o portfelju kriptovaluta drži lokalno na disku gdje nisu dostupni nikome osim vlasniku, a trenutne cijene kriptovaluta u portfelju dohvaća s CoinMarketCap-a.",
+          "en": "Developing a .NET Framework application which keeps cryptocurrency portfolio data stored locally where only the owner has access to it. Current portfolio cryptocurrency prices are downloaded from CoinMarketCap."
+        },
+        "description_2": {
+          "hr": "Aplikacija je razvijena iz osobne potrebe s glavnim ciljem lakšeg praćenja kriptovaluta koje me interesiraju.",
+          "en": "The application has been developed for personal use with main focus being simpler tracking of cryptocurrencies."
+        },
+        "description_3": {
+          "hr": "Razvoj aplikacije još uvijek je u tijeku te ju se prema potrebi nadograđuje.",
+          "en": "Application development is still in progress and the app is being upgraded when necessary."
+        }
+      },
+      "project_2": {
+        "title": {
+          "hr": "CRM / Obitelji 3plus",
+          "en": "CRM / Obitelji 3plus"
+        },
+        "duration": {
+          "from": "Oct 2021",
+          "to": {
+            "hr": "Jun 2022",
+            "en": "Jun 2022"
+          }
+        },
+        "description_1": {
+          "hr": "Rad na CRM aplikaciji za udrugu Obitelji 3plus. Radilo se na unapređenju postojeće Laravel web aplikacije, a moj glavni fokus bio je na doradi naprednog pretraživanja i optimizaciji rada s bazom podataka.",
+          "en": "Working on CRM application development for Obitelji 3plus association. Work was done on improving the existing Laravel web application and my main focus was on improving advanced user search function and database optimisation."
+        },
+        "description_2": {
+          "hr": "Aplikacija je bila projektni zadatak za kolegij Analiza i razvoj programa na diplomskom studiju Fakulteta organizacije i informatike Varaždin.",
+          "en": "Application was a project task for Software Analysis and Design class at Faculty of Organization and Informatics Varaždin."
+        },
+        "description_3": {
+          "hr": "",
+          "en": ""
+        }
+      },
+      "project_1": {
+        "title": {
+          "hr": "WareHome / FOI",
+          "en": "WareHome / FOI"
+        },
+        "duration": {
+          "from": "Mar 2021",
+          "to": {
+            "hr": "Jun 2021",
+            "en": "Jun 2021"
+          }
+        },
+        "description_1": {
+          "hr": "Osmišljanje, razvoj, dokumentiranje i implementacija .NET Framework aplikacije za praćenje količine namirnica u domaćinstvu uz mogućnost predviđanja trajanja postojećih zaliha.",
+          "en": "Designing, developing, documenting and implementing a .NET Framework application used for tracking amounts of items in user's household with capability to predict future consumption."
+        },
+        "description_2": {
+          "hr": "Aplikacija je bila projektni zadatak za kolegij Programsko inženjerstvo na preddiplomskom studiju Fakulteta organizacije i informatike Varaždin.",
+          "en": "Application was a project task for Software Engineering class at Faculty of Organization and Informatics Varaždin."
+        },
+        "description_3": {
+          "hr": "",
+          "en": ""
+        }
+      }
+    }
+  },
+
+  "footer": {
+    "social_media": {
+      "hr": "Društvene mreže:",
+      "en": "Social media:"
+    },
+    "powered_by": {
+      "hr": "Powered by ",
+      "en": "Powered by "
+    }
+  },
+
+  "pdf": {
+    "description": {
+      "hr": "Životopis",
+      "en": "Curriculum Vitae"
+    },
+    "languages": {
+      "native": {
+        "hr": "Materinji jezik",
+        "en": "Native Proficiency"
+      },
+      "fullprofessional": {
+        "hr": "Potpuno profesionalno poznavanje",
+        "en": "Full Professional Proficiency"
+      },
+      "limited": {
+        "hr": "Ograničeno radno poznavanje",
+        "en": "Limited Working Proficiency"
+      }
+    }
+  }
+}
