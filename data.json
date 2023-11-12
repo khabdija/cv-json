@@ -263,8 +263,8 @@
           "en": "Junior full stack software developer."
         },
         "description_2": {
-          "hr": "Alati i tehnologije: MS Visual Studio, MS Visual Studio Code, pgAdmin, SourceTree, Docker, DevOps, C#, HTML, CSS, Javascript, Typescript, SQL, Git, Angular, MS SSMS, MS SQL, PostgreSQL.",
-          "en": "Tools and technologies: MS Visual Studio, MS Visual Studio Code, pgAdmin, SourceTree, Docker, DevOps, C#, HTML, CSS, Javascript, Typescript, SQL, Git, Angular, MS SSMS, MS SQL, PostgreSQL."
+          "hr": "Alati i tehnologije: .NET Framework, Angular, Azure DevOps, C#, CSS, Docker, Git, HTML, JavaScript, MS SQL, MS SSMS, MS Visual Studio, MS VS Code, pgAdmin, PostgreSQL, SCSS, SourceTree, Swagger, TypeScript.",
+          "en": "Tools and technologies: .NET Framework, Angular, Azure DevOps, C#, CSS, Docker, Git, HTML, JavaScript, MS SQL, MS SSMS, MS Visual Studio, MS VS Code, pgAdmin, PostgreSQL, SCSS, SourceTree, Swagger, TypeScript."
         },
         "description_3": {
           "hr": "",
@@ -385,7 +385,7 @@
         },
         "description_1": {
           "hr": "Tehnička podrška pri održavanju predstava i ostalih događanja u organizaciji POU Križevci.",
-          "en": "Technical support for theatre shows organised by POU Križevci."
+          "en": "Technical support for theatre shows organized by POU Križevci."
         },
         "description_2": {
           "hr": "",
@@ -423,7 +423,7 @@
         },
         "description_2": {
           "hr": "Aplikacija je razvijena iz osobne potrebe s glavnim ciljem lakšeg praćenja kriptovaluta koje me interesiraju.",
-          "en": "The application has been developed for personal use with main focus being simpler tracking of cryptocurrencies."
+          "en": "The application has been developed for personal use with the main focus being simpler tracking of cryptocurrencies."
         },
         "description_3": {
           "hr": "Razvoj aplikacije još uvijek je u tijeku te ju se prema potrebi nadograđuje.",
@@ -444,7 +444,7 @@
         },
         "description_1": {
           "hr": "Rad na CRM aplikaciji za udrugu Obitelji 3plus. Radilo se na unapređenju postojeće Laravel web aplikacije, a moj glavni fokus bio je na doradi naprednog pretraživanja i optimizaciji rada s bazom podataka.",
-          "en": "Working on CRM application development for Obitelji 3plus association. Work was done on improving the existing Laravel web application and my main focus was on improving advanced user search function and database optimisation."
+          "en": "Working on CRM application development for Obitelji 3plus association. Work was done on improving the existing Laravel web application and my main focus was on improving advanced user search function and database optimization."
         },
         "description_2": {
           "hr": "Aplikacija je bila projektni zadatak za kolegij Analiza i razvoj programa na diplomskom studiju Fakulteta organizacije i informatike Varaždin.",
@@ -469,7 +469,7 @@
         },
         "description_1": {
           "hr": "Osmišljanje, razvoj, dokumentiranje i implementacija .NET Framework aplikacije za praćenje količine namirnica u domaćinstvu uz mogućnost predviđanja trajanja postojećih zaliha.",
-          "en": "Designing, developing, documenting and implementing a .NET Framework application used for tracking amounts of items in user's household with capability to predict future consumption."
+          "en": "Designing, developing, documenting and implementing a .NET Framework application used for tracking amounts of items in user's household with the capability to predict future consumption."
         },
         "description_2": {
           "hr": "Aplikacija je bila projektni zadatak za kolegij Programsko inženjerstvo na preddiplomskom studiju Fakulteta organizacije i informatike Varaždin.",
