@@ -485,12 +485,27 @@
 
   "footer": {
     "social_media": {
-      "hr": "Društvene mreže:",
-      "en": "Social media:"
+      "section_title": {
+        "hr": "Društvene mreže:",
+        "en": "Social media:"
+      },
+      "links": {
+        "linkedin": "https://www.linkedin.com/in/karlohabdija/",
+        "twitter": "https://twitter.com/karlohabdija",
+        "facebook": "https://web.facebook.com/karlo.habdija",
+        "instagram": "https://instagram.com/karlohabdija"
+      }
     },
     "powered_by": {
-      "hr": "Powered by ",
-      "en": "Powered by "
+      "section_title": {
+        "hr": "Powered by ",
+        "en": "Powered by "
+      },
+      "link": "http://www.infoing.hr/",
+      "company": {
+        "hr": "INFOING",
+        "en": "INFOING"
+      }
     }
   },
 
