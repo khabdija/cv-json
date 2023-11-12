@@ -1,8 +1,8 @@
 {
   "person": {
     "full_name": {
-      "hr": "Karlo Habdija - test",
-      "en": "Karlo Habdija - test"
+      "hr": "Karlo Habdija",
+      "en": "Karlo Habdija"
     },
     "profession": {
       "hr": "Software Developer",
@@ -208,8 +208,8 @@
         "percentage": "90%"
       },
       "skill_5": {
-        "hr": "JavaScript",
-        "en": "JavaScript",
+        "hr": "React",
+        "en": "React",
         "percentage": "85%"
       },
       "skill_6": {
@@ -218,13 +218,13 @@
         "percentage": "85%"
       },
       "skill_7": {
-        "hr": "HTML",
-        "en": "HTML",
+        "hr": "JavaScript",
+        "en": "JavaScript",
         "percentage": "80%"
       },
       "skill_8": {
-        "hr": "React",
-        "en": "React",
+        "hr": "HTML/CSS",
+        "en": "HTML/CSS",
         "percentage": "80%"
       },
       "skill_9": {
@@ -246,31 +246,6 @@
       "en": "Work experience"
     },
     "experiences": {
-      "experience_7": {
-        "title": {
-          "hr": "Marajin dečko / Trajni lak Maraja d.d.",
-          "en": "Boyfriend of Maraja / Trajni lak Maraja d.d."
-        },
-        "duration": {
-          "from": "Mar 2020",
-          "to": {
-            "hr": "Trenutno",
-            "en": "Current"
-          }
-        },
-        "description_1": {
-          "hr": "Stariji tatica.",
-          "en": "Senior daddy."
-        },
-        "description_2": {
-          "hr": "Odgovornosti: sve brate mili",
-          "en": "Responsibilities: everything bro"
-        },
-        "description_3": {
-          "hr": "",
-          "en": ""
-        }
-      },
       "experience_6": {
         "title": {
           "hr": "Software developer / Ekobit d.o.o.",
