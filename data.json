@@ -405,6 +405,31 @@
       "en": "Projects"
     },
     "all_projects": {
+      "project_4": {
+        "title": {
+          "hr": "Name TBD / Osobni projekt",
+          "en": "Name TBD / Personal project"
+        },
+        "duration": {
+          "from": "Oct 2023",
+          "to": {
+            "hr": "Trenutno",
+            "en": "Current"
+          }
+        },
+        "description_1": {
+          "hr": "Izrada aplikacije koja pruža način praćenja uspjeha i razvoja u svakom aspektu korisnikova života; od najsitnijih dnevnih ciljeva, do praćenja trenutne vrijednosti imovine uz AI pomoć za napredovanje.",
+          "en": "Creating an application that provides a way to track success and self-development in every aspect of users life; from smallest daily goals, to tracking current net worth with AI assisted tips for improvement."
+        },
+        "description_2": {
+          "hr": "Aplikacija je razvijena iz osobne potrebe s glavnim ciljem prikaza napretka koji se postiže svaki dan te davanja motivacije za nastavak rada. Aplikacija je trenutno u srednjoj fazi razvoja, uz planiranu produkciju tokom Q3 2024.",
+          "en": "The application has been developed with personal use in mind with the main focus being making daily advancements more visible and providing motivating to continue working on self-development. Application is currently in mid-develpoment phase with planned go-live during Q3 2024."
+        },
+        "description_3": {
+          "hr": "Alati i tehnologije: .NET Core, Azure DevOps, C#, CSS, Git, GPT, HTML, JavaScript, MS SQL, MS SSMS, MS Visual Studio, MS VS Code, React Native, React.JS, SCSS, SourceTree, Swagger, SQLite, TypeScript.",
+          "en": "Tools and technologies: .NET Core, Azure DevOps, C#, CSS, Git, GPT, HTML, JavaScript, MS SQL, MS SSMS, MS Visual Studio, MS VS Code, React Native, React.JS, SCSS, SourceTree, Swagger, SQLite, TypeScript."
+        }
+      },
       "project_3": {
         "title": {
           "hr": "CryptoTracker / Osobni projekt",
@@ -422,12 +447,12 @@
           "en": "Developing a .NET Framework application which keeps cryptocurrency portfolio data stored locally where only the owner has access to it. Current portfolio cryptocurrency prices are downloaded from CoinMarketCap."
         },
         "description_2": {
-          "hr": "Aplikacija je razvijena iz osobne potrebe s glavnim ciljem lakšeg praćenja kriptovaluta koje me interesiraju.",
-          "en": "The application has been developed for personal use with the main focus being simpler tracking of cryptocurrencies."
+          "hr": "Aplikacija je razvijena iz osobne potrebe s glavnim ciljem lakšeg praćenja vrijednosti kriptovaluta koje me interesiraju. Razvoj aplikacije još uvijek je u tijeku te ju se prema potrebi nadograđuje.",
+          "en": "The application has been developed for personal use with the main focus being simpler tracking of owned cryptocurrencies value. Application development is still in progress and the app is being upgraded when necessary."
         },
         "description_3": {
-          "hr": "Razvoj aplikacije još uvijek je u tijeku te ju se prema potrebi nadograđuje.",
-          "en": "Application development is still in progress and the app is being upgraded when necessary."
+          "hr": "Alati i tehnologije: .NET Framework, ASP.NET, C#, Git, GitHub, MS Visual Studio, SourceTree, SQLite, Windows Forms.",
+          "en": "Tools and technologies: .NET Framework, ASP.NET, C#, Git, GitHub, MS Visual Studio, SourceTree, SQLite, Windows Forms."
         }
       },
       "project_2": {
@@ -444,15 +469,15 @@
         },
         "description_1": {
           "hr": "Rad na CRM aplikaciji za udrugu Obitelji 3plus. Radilo se na unapređenju postojeće Laravel web aplikacije, a moj glavni fokus bio je na doradi naprednog pretraživanja i optimizaciji rada s bazom podataka.",
-          "en": "Working on CRM application development for Obitelji 3plus association. Work was done on improving the existing Laravel web application and my main focus was on improving advanced user search function and database optimization."
+          "en": "Working on CRM application development for Obitelji 3plus association. Work was done on improving an existing Laravel web application and my main focus was on improving advanced user search function and database optimization."
         },
         "description_2": {
           "hr": "Aplikacija je bila projektni zadatak za kolegij Analiza i razvoj programa na diplomskom studiju Fakulteta organizacije i informatike Varaždin.",
           "en": "Application was a project task for Software Analysis and Design class at Faculty of Organization and Informatics Varaždin."
         },
         "description_3": {
-          "hr": "",
-          "en": ""
+          "hr": "Alati i tehnologije: CSS, Git, GitHub, HTML, Laravel, MS SQL, MS SSMS, MS VS Code, PHP, SourceTree, Xampp.",
+          "en": "Tools and technologies: CSS, Git, GitHub, HTML, Laravel, MS SQL, MS SSMS, MS VS Code, PHP, SourceTree, Xampp."
         }
       },
       "project_1": {
@@ -476,8 +501,8 @@
           "en": "Application was a project task for Software Engineering class at Faculty of Organization and Informatics Varaždin."
         },
         "description_3": {
-          "hr": "",
-          "en": ""
+          "hr": "Alati i tehnologije: .NET Framework, C#, Git, GitHub, MS SQL, MS SSMS, MS Visual Studio, SourceTree, Windows Forms.",
+          "en": "Tools and technologies: .NET Framework, C#, Git, GitHub, MS SQL, MS SSMS, MS Visual Studio, SourceTree, Windows Forms."
         }
       }
     }
