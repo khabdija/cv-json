@@ -28,7 +28,7 @@
       "en": "Education"
     },
     "schools": {
-      "school_4": {
+      "school_2": {
         "name": {
           "hr": "Fakultet organizacije i informatike Varaždin",
           "en": "Faculty of Organization and Informatics Varaždin"
@@ -57,7 +57,7 @@
           "en": "Thesis defended on 14.09.2023."
         }
       },
-      "school_3": {
+      "school_1": {
         "name": {
           "hr": "Fakultet organizacije i informatike Varaždin",
           "en": "Faculty of Organization and Informatics Varaždin"
@@ -85,64 +85,6 @@
           "hr": "Završni rad obranjen 03.09.2021.",
           "en": "Thesis defended on 03.09.2021."
         }
-      },
-      "school_2": {
-        "name": {
-          "hr": "Gimnazija Ivana Zakmardija Dijankovečkoga Križevci",
-          "en": "Gimnazija Ivana Zakmardija Dijankovečkoga Križevci"
-        },
-        "year": {
-          "from": "2014",
-          "to": {
-            "hr": "2018",
-            "en": "2018"
-          }
-        },
-        "major_1": {
-          "hr": "Srednjoškolsko obrazovanje",
-          "en": "Secondary school diploma"
-        },
-        "major_2": {
-          "hr": " - Opća gimnazija",
-          "en": " - General-education secondary school"
-        },
-        "thesis_1": {
-          "hr": "",
-          "en": ""
-        },
-        "thesis_2": {
-          "hr": "",
-          "en": ""
-        }
-      },
-      "school_1": {
-        "name": {
-          "hr": "Osnovna škola \"Vladimir Nazor\" Križevci",
-          "en": "Osnovna škola \"Vladimir Nazor\" Križevci"
-        },
-        "year": {
-          "from": "2006",
-          "to": {
-            "hr": "2014",
-            "en": "2014"
-          }
-        },
-        "major_1": {
-          "hr": "Osnovnoškolsko obrazovanje",
-          "en": "Primary school diploma"
-        },
-        "major_2": {
-          "hr": "",
-          "en": ""
-        },
-        "thesis_1": {
-          "hr": "",
-          "en": ""
-        },
-        "thesis_2": {
-          "hr": "",
-          "en": ""
-        }
       }
     }
   },
@@ -169,13 +111,13 @@
         "percentage": "80%"
       },
       "language_3": {
-        "hr": "Njemački",
-        "en": "German",
+        "hr": "Talijanski",
+        "en": "Italian",
         "percentage": "30%"
       },
       "language_4": {
-        "hr": "Francuski",
-        "en": "French",
+        "hr": "Njemački",
+        "en": "German",
         "percentage": "30%"
       }
     }
@@ -193,8 +135,8 @@
         "percentage": "95%"
       },
       "skill_2": {
-        "hr": "Rad s ljudima",
-        "en": "People skills",
+        "hr": "Microsoft Office",
+        "en": "Microsoft Office",
         "percentage": "95%"
       },
       "skill_3": {
@@ -203,8 +145,8 @@
         "percentage": "90%"
       },
       "skill_4": {
-        "hr": "Microsoft Office",
-        "en": "Microsoft Office",
+        "hr": "JavaScript",
+        "en": "JavaScript",
         "percentage": "90%"
       },
       "skill_5": {
@@ -218,8 +160,8 @@
         "percentage": "85%"
       },
       "skill_7": {
-        "hr": "JavaScript",
-        "en": "JavaScript",
+        "hr": "Microsoft Azure",
+        "en": "Microsoft Azure",
         "percentage": "80%"
       },
       "skill_8": {
@@ -246,7 +188,7 @@
       "en": "Work experience"
     },
     "experiences": {
-      "experience_6": {
+      "experience_2": {
         "title": {
           "hr": "Software developer / Ekobit d.o.o.",
           "en": "Software developer / Ekobit d.o.o."
@@ -271,7 +213,7 @@
           "en": ""
         }
       },
-      "experience_5": {
+      "experience_1": {
         "title": {
           "hr": "Održavanje korisničkih računa / Iskon Internet d.d.",
           "en": "User account maintenance / Iskon Internet d.d."
@@ -286,106 +228,6 @@
         "description_1": {
           "hr": "Administracija, korisnička podrška i rad na održavanju korisničkih računa.",
           "en": "Providing customer support and working on general maintenance of user accounts."
-        },
-        "description_2": {
-          "hr": "",
-          "en": ""
-        },
-        "description_3": {
-          "hr": "",
-          "en": ""
-        }
-      },
-      "experience_4": {
-        "title": {
-          "hr": "Korisnička podrška / CITY CONNECT d.o.o.",
-          "en": "Customer support / CITY CONNECT d.o.o."
-        },
-        "duration": {
-          "from": "Dec 2020",
-          "to": {
-            "hr": "Jan 2021",
-            "en": "Jan 2021"
-          }
-        },
-        "description_1": {
-          "hr": "Rad u korisničkoj podršci za sustav e-propusnica tijekom ograničenja putovanja između gradova zbog COVID-a.",
-          "en": "Providing customer support for e-propusnica system during COVID travel restrictions in Croatia."
-        },
-        "description_2": {
-          "hr": "",
-          "en": ""
-        },
-        "description_3": {
-          "hr": "",
-          "en": ""
-        }
-      },
-      "experience_3": {
-        "title": {
-          "hr": "Telefonska prodaja / CITY CONNECT d.o.o.",
-          "en": "Telephone sales / CITY CONNECT d.o.o."
-        },
-        "duration": {
-          "from": "Aug 2020",
-          "to": {
-            "hr": "Oct 2020",
-            "en": "Oct 2020"
-          }
-        },
-        "description_1": {
-          "hr": "Telefonska prodaja dopunskog i dodatnog zdravstvenog osiguranja za Croatia Osiguranje.",
-          "en": "Selling health insurance via telephone for Croatia Osiguranje."
-        },
-        "description_2": {
-          "hr": "",
-          "en": ""
-        },
-        "description_3": {
-          "hr": "",
-          "en": ""
-        }
-      },
-      "experience_2": {
-        "title": {
-          "hr": "Održavanje web stranice / INFOING d.o.o.",
-          "en": "Website maintenance / INFOING d.o.o."
-        },
-        "duration": {
-          "from": "Oct 2017",
-          "to": {
-            "hr": "Trenutno",
-            "en": "Current"
-          }
-        },
-        "description_1": {
-          "hr": "Povremeno pro bono održavanje web mjesta obiteljskog poduzeća.",
-          "en": "Occasional pro bono maintenance of family business website."
-        },
-        "description_2": {
-          "hr": "",
-          "en": ""
-        },
-        "description_3": {
-          "hr": "",
-          "en": ""
-        }
-      },
-      "experience_1": {
-        "title": {
-          "hr": "Tehničar zvuka i rasvjete / Pučko Otvoreno Učilište Križevci",
-          "en": "Sound and light technician / Pučko Otvoreno Učilište Križevci"
-        },
-        "duration": {
-          "from": "Jan 2016",
-          "to": {
-            "hr": "Jul 2017",
-            "en": "Jul 2017"
-          }
-        },
-        "description_1": {
-          "hr": "Tehnička podrška pri održavanju predstava i ostalih događanja u organizaciji POU Križevci.",
-          "en": "Technical support for theatre shows organized by POU Križevci."
         },
         "description_2": {
           "hr": "",
@@ -422,8 +264,8 @@
           "en": "Creating an application that provides a way to track success and self-development in every aspect of users life; from smallest daily goals, to tracking current net worth with AI assisted tips for improvement."
         },
         "description_2": {
-          "hr": "Aplikacija je razvijena iz osobne potrebe s glavnim ciljem prikaza napretka koji se postiže svaki dan te davanja motivacije za nastavak rada. Aplikacija je trenutno u srednjoj fazi razvoja, uz planiranu produkciju tokom Q3 2024.",
-          "en": "The application has been developed with personal use in mind with the main focus being making daily advancements more visible and providing motivating to continue working on self-development. Application is currently in mid-develpoment phase with planned go-live during Q3 2024."
+          "hr": "Aplikacija je razvijena iz osobne potrebe s glavnim ciljem prikaza napretka koji se postiže svaki dan te davanja motivacije za nastavak rada. Aplikacija je trenutno u srednjoj fazi razvoja, uz planiranu produkciju tokom Q4 2024.",
+          "en": "The application has been developed with personal use in mind with the main focus being making daily advancements more visible and providing motivating to continue working on self-development. Application is currently in mid-develpoment phase with planned go-live during Q4 2024."
         },
         "description_3": {
           "hr": "Alati i tehnologije: .NET Core, Azure DevOps, C#, CSS, Git, GPT, HTML, JavaScript, MS SQL, MS SSMS, MS Visual Studio, MS VS Code, React Native, React.JS, SCSS, SourceTree, Swagger, SQLite, TypeScript.",
