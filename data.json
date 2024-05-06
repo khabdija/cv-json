@@ -211,6 +211,25 @@
         "description_3": {
           "hr": "",
           "en": ""
+        },
+        "duration": {
+          "from": "Jul 2022",
+          "to": {
+            "hr": "Trenutno",
+            "en": "Current"
+          }
+        },
+        "description_1": {
+          "hr": "Junior full stack software developer.",
+          "en": "Junior full stack software developer."
+        },
+        "description_2": {
+          "hr": "Alati i tehnologije: .NET Framework, Angular, Azure DevOps, C#, CSS, Docker, Git, HTML, JavaScript, MS SQL, MS SSMS, MS Visual Studio, MS VS Code, pgAdmin, PostgreSQL, SCSS, SourceTree, Swagger, TypeScript.",
+          "en": "Tools and technologies: .NET Framework, Angular, Azure DevOps, C#, CSS, Docker, Git, HTML, JavaScript, MS SQL, MS SSMS, MS Visual Studio, MS VS Code, pgAdmin, PostgreSQL, SCSS, SourceTree, Swagger, TypeScript."
+        },
+        "description_3": {
+          "hr": "",
+          "en": ""
         }
       },
       "experience_1": {
