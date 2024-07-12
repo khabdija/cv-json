@@ -398,12 +398,12 @@
           "en": "Credential ID: 524D5C51843FD818"
         },
         "description_2": {
-          "hr": "Certification number: 2359Q2-B6970E",
-          "en": "Certification number: 2359Q2-B6970E"
-        },
-        "description_3": {
           "hr": "Earned on: May 13, 2024",
           "en": "Earned on: May 13, 2024"
+        },
+        "description_3": {
+          "hr": "",
+          "en": ""
         }
       }
     }
