@@ -201,16 +201,16 @@
           }
         },
         "description_1": {
-          "hr": "Full stack software developer; ista pozicija kao u Ekobitu otkad je službeno postao dio Spana.",
-          "en": "Full stack software developer; same position as in Ekobit since it officially became part of Span."
+          "hr": "Full stack software developer.",
+          "en": "Full stack software developer."
         },
         "description_2": {
-          "hr": "Alati i tehnologije: .NET Framework, Angular, C#, CSS, Docker, Git, HTML, JavaScript, MS Azure, MS Office 365, MS SQL, MS SSMS, MS Teams, MS Visual Studio, MS VS Code, pgAdmin, PostgreSQL, SCSS, SourceTree, TypeScript.",
-          "en": "Tools and technologies: .NET Framework, Angular, C#, CSS, Docker, Git, HTML, JavaScript, MS Azure, MS Office 365, MS SQL, MS SSMS, MS Teams, MS Visual Studio, MS VS Code, pgAdmin, PostgreSQL, SCSS, SourceTree, TypeScript."
+          "hr": "Ista pozicija kao u Ekobitu otkad je službeno postao dio Spana.",
+          "en": "Same position as in Ekobit since it officially became part of Span."
         },
         "description_3": {
-          "hr": "",
-          "en": ""
+          "hr": "Alati i tehnologije: .NET Framework, Angular, C#, CSS, Docker, Git, HTML, JavaScript, MS Azure, MS Office 365, MS SQL, MS SSMS, MS Teams, MS Visual Studio, MS VS Code, pgAdmin, PostgreSQL, SCSS, SourceTree, TypeScript.",
+          "en": "Tools and technologies: .NET Framework, Angular, C#, CSS, Docker, Git, HTML, JavaScript, MS Azure, MS Office 365, MS SQL, MS SSMS, MS Teams, MS Visual Studio, MS VS Code, pgAdmin, PostgreSQL, SCSS, SourceTree, TypeScript."
         }
       },
       "experience_2": {
@@ -230,12 +230,12 @@
           "en": "Full stack software developer."
         },
         "description_2": {
-          "hr": "Alati i tehnologije: .NET Framework, Angular, C#, CSS, Docker, Git, HTML, JavaScript, MS Azure, MS Office 365, MS SQL, MS SSMS, MS Teams, MS Visual Studio, MS VS Code, pgAdmin, PostgreSQL, SCSS, SourceTree, TypeScript.",
-          "en": "Tools and technologies: .NET Framework, Angular, C#, CSS, Docker, Git, HTML, JavaScript, MS Azure, MS Office 365, MS SQL, MS SSMS, MS Teams, MS Visual Studio, MS VS Code, pgAdmin, PostgreSQL, SCSS, SourceTree, TypeScript."
+          "hr": "Rad uglavnom na internim projektima Ekobita i Spana, najviše na backend dijelovima (.NET) te ponešto na frontendu (Angular).",
+          "en": "Working mostly on internal projects for Ekobit and Span, mostly on the backend parts (.NET) and some frontend work also (Angular)."
         },
         "description_3": {
-          "hr": "",
-          "en": ""
+          "hr": "Alati i tehnologije: .NET Framework, Angular, C#, CSS, Docker, Git, HTML, JavaScript, MS Azure, MS Office 365, MS SQL, MS SSMS, MS Teams, MS Visual Studio, MS VS Code, pgAdmin, PostgreSQL, SCSS, SourceTree, TypeScript.",
+          "en": "Tools and technologies: .NET Framework, Angular, C#, CSS, Docker, Git, HTML, JavaScript, MS Azure, MS Office 365, MS SQL, MS SSMS, MS Teams, MS Visual Studio, MS VS Code, pgAdmin, PostgreSQL, SCSS, SourceTree, TypeScript."
         }
       },
       "experience_1": {
