@@ -201,16 +201,16 @@
           }
         },
         "description_1": {
-          "hr": "Full stack software developer.",
-          "en": "Full stack software developer."
+          "hr": "Full stack software developer; ista pozicija kao u Ekobitu otkad je službeno postao dio Spana.",
+          "en": "Full stack software developer; same position as in Ekobit since it officially became part of Span."
         },
         "description_2": {
-          "hr": "Ista pozicija kao u Ekobitu otkad je službeno postao dio Spana.",
-          "en": "Same position as in Ekobit since it officially became part of Span."
-        },
-        "description_3": {
           "hr": "Alati i tehnologije: .NET Framework, Angular, C#, CSS, Docker, Git, HTML, JavaScript, MS Azure, MS SQL, MS SSMS, MS Visual Studio, MS VS Code, pgAdmin, PostgreSQL, SCSS, SourceTree, Swagger, TypeScript.",
           "en": "Tools and technologies: .NET Framework, Angular, C#, CSS, Docker, Git, HTML, JavaScript, MS Azure, MS SQL, MS SSMS, MS Visual Studio, MS VS Code, pgAdmin, PostgreSQL, SCSS, SourceTree, Swagger, TypeScript."
+        },
+        "description_3": {
+          "hr": "",
+          "en": ""
         }
       },
       "experience_2": {
