@@ -188,6 +188,31 @@
       "en": "Work experience"
     },
     "experiences": {
+      "experience_3": {
+        "title": {
+          "hr": "Software developer / Span d.d.",
+          "en": "Software developer / Span d.d."
+        },
+        "duration": {
+          "from": "Jul 2024",
+          "to": {
+            "hr": "Trenutno",
+            "en": "Current"
+          }
+        },
+        "description_1": {
+          "hr": "Full stack software developer.",
+          "en": "Full stack software developer."
+        },
+        "description_2": {
+          "hr": "Ista pozicija kao u Ekobitu otkad je službeno postao dio Spana.",
+          "en": "Same position as in Ekobit since it officially became part of Span."
+        },
+        "description_3": {
+          "hr": "Alati i tehnologije: .NET Framework, Angular, C#, CSS, Docker, Git, HTML, JavaScript, MS Azure, MS SQL, MS SSMS, MS Visual Studio, MS VS Code, pgAdmin, PostgreSQL, SCSS, SourceTree, Swagger, TypeScript.",
+          "en": "Tools and technologies: .NET Framework, Angular, C#, CSS, Docker, Git, HTML, JavaScript, MS Azure, MS SQL, MS SSMS, MS Visual Studio, MS VS Code, pgAdmin, PostgreSQL, SCSS, SourceTree, Swagger, TypeScript."
+        }
+      },
       "experience_2": {
         "title": {
           "hr": "Software developer / Ekobit d.o.o.",
@@ -195,14 +220,11 @@
         },
         "duration": {
           "from": "Jul 2022",
-          "to": {
-            "hr": "Trenutno",
-            "en": "Current"
-          }
+          "to": "Jun 2024"
         },
         "description_1": {
-          "hr": "Junior full stack software developer.",
-          "en": "Junior full stack software developer."
+          "hr": "Full stack software developer.",
+          "en": "Full stack software developer."
         },
         "description_2": {
           "hr": "Alati i tehnologije: .NET Framework, Angular, C#, CSS, Docker, Git, HTML, JavaScript, MS Azure, MS SQL, MS SSMS, MS Visual Studio, MS VS Code, pgAdmin, PostgreSQL, SCSS, SourceTree, Swagger, TypeScript.",
