@@ -220,7 +220,10 @@
         },
         "duration": {
           "from": "Jul 2022",
-          "to": "Jun 2024"
+          "to": {
+            "hr": "Jun 2022",
+            "en": "Jun 2022"
+          }
         },
         "description_1": {
           "hr": "Full stack software developer.",
