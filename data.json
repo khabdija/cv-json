@@ -205,8 +205,8 @@
           "en": "Full stack software developer; same position as in Ekobit since it officially became part of Span."
         },
         "description_2": {
-          "hr": "Alati i tehnologije: .NET Framework, Angular, C#, CSS, Docker, Git, HTML, JavaScript, MS Azure, MS SQL, MS SSMS, MS Visual Studio, MS VS Code, pgAdmin, PostgreSQL, SCSS, SourceTree, Swagger, TypeScript.",
-          "en": "Tools and technologies: .NET Framework, Angular, C#, CSS, Docker, Git, HTML, JavaScript, MS Azure, MS SQL, MS SSMS, MS Visual Studio, MS VS Code, pgAdmin, PostgreSQL, SCSS, SourceTree, Swagger, TypeScript."
+          "hr": "Alati i tehnologije: .NET Framework, Angular, C#, CSS, Docker, Git, HTML, JavaScript, MS Azure (razni servisi), MS SQL, MS SSMS, MS Visual Studio, MS VS Code, pgAdmin, PostgreSQL, SCSS, SourceTree, TypeScript.",
+          "en": "Tools and technologies: .NET Framework, Angular, C#, CSS, Docker, Git, HTML, JavaScript, MS Azure (many services), MS SQL, MS SSMS, MS Visual Studio, MS VS Code, pgAdmin, PostgreSQL, SCSS, SourceTree, TypeScript."
         },
         "description_3": {
           "hr": "",
@@ -230,8 +230,8 @@
           "en": "Full stack software developer."
         },
         "description_2": {
-          "hr": "Alati i tehnologije: .NET Framework, Angular, C#, CSS, Docker, Git, HTML, JavaScript, MS Azure, MS SQL, MS SSMS, MS Visual Studio, MS VS Code, pgAdmin, PostgreSQL, SCSS, SourceTree, Swagger, TypeScript.",
-          "en": "Tools and technologies: .NET Framework, Angular, C#, CSS, Docker, Git, HTML, JavaScript, MS Azure, MS SQL, MS SSMS, MS Visual Studio, MS VS Code, pgAdmin, PostgreSQL, SCSS, SourceTree, Swagger, TypeScript."
+          "hr": "Alati i tehnologije: .NET Framework, Angular, C#, CSS, Docker, Git, HTML, JavaScript, MS Azure (razni servisi), MS SQL, MS SSMS, MS Visual Studio, MS VS Code, pgAdmin, PostgreSQL, SCSS, SourceTree, TypeScript.",
+          "en": "Tools and technologies: .NET Framework, Angular, C#, CSS, Docker, Git, HTML, JavaScript, MS Azure (many services), MS SQL, MS SSMS, MS Visual Studio, MS VS Code, pgAdmin, PostgreSQL, SCSS, SourceTree, TypeScript."
         },
         "description_3": {
           "hr": "",
@@ -293,8 +293,8 @@
           "en": "The application has been developed with personal use in mind with the main focus being making daily advancements more visible and providing motivating to continue working on self-development. Application is currently in mid-develpoment phase with planned go-live during Q4 2024."
         },
         "description_3": {
-          "hr": "Alati i tehnologije: .NET Core, Azure DevOps, C#, CSS, Git, GPT, HTML, JavaScript, MS SQL, MS SSMS, MS Visual Studio, MS VS Code, React Native, React.JS, SCSS, SourceTree, Swagger, SQLite, TypeScript.",
-          "en": "Tools and technologies: .NET Core, Azure DevOps, C#, CSS, Git, GPT, HTML, JavaScript, MS SQL, MS SSMS, MS Visual Studio, MS VS Code, React Native, React.JS, SCSS, SourceTree, Swagger, SQLite, TypeScript."
+          "hr": "Alati i tehnologije: .NET Core, Azure DevOps, C#, CSS, Git, GPT, HTML, JavaScript, MS SQL, MS SSMS, MS Visual Studio, MS VS Code, React Native, React.JS, SCSS, SourceTree, SQLite, TypeScript.",
+          "en": "Tools and technologies: .NET Core, Azure DevOps, C#, CSS, Git, GPT, HTML, JavaScript, MS SQL, MS SSMS, MS Visual Studio, MS VS Code, React Native, React.JS, SCSS, SourceTree, SQLite, TypeScript."
         }
       },
       "project_3": {
