@@ -132,13 +132,13 @@
     },
     "all_skills": {
       "skill_1": {
-        "hr": "C#",
-        "en": "C#",
+        "hr": ".NET platforma",
+        "en": ".NET platform",
         "percentage": "95%"
       },
       "skill_2": {
-        "hr": "Microsoft Office",
-        "en": "Microsoft Office",
+        "hr": "C#",
+        "en": "C#",
         "percentage": "95%"
       },
       "skill_3": {
