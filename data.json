@@ -55,7 +55,8 @@
         "thesis_2": {
           "hr": "Diplomski rad obranjen 14.09.2023.",
           "en": "Thesis defended on 14.09.2023."
-        }
+        },
+        "thesis_link": ""
       },
       "school_1": {
         "name": {
@@ -84,7 +85,8 @@
         "thesis_2": {
           "hr": "Završni rad obranjen 03.09.2021.",
           "en": "Thesis defended on 03.09.2021."
-        }
+        },
+        "thesis_link": ""
       }
     }
   },
@@ -211,7 +213,8 @@
         "description_3": {
           "hr": "Alati i tehnologije: .NET Framework, Angular, C#, CSS, Docker, Git, HTML, JavaScript, MS Azure, MS SQL, MS SSMS, MS Teams, MS Visual Studio, MS VS Code, pgAdmin, PostgreSQL, SCSS, SourceTree, TypeScript.",
           "en": "Tools and technologies: .NET Framework, Angular, C#, CSS, Docker, Git, HTML, JavaScript, MS Azure, MS SQL, MS SSMS, MS Teams, MS Visual Studio, MS VS Code, pgAdmin, PostgreSQL, SCSS, SourceTree, TypeScript."
-        }
+        },
+        "link": ""
       },
       "experience_2": {
         "title": {
@@ -236,7 +239,8 @@
         "description_3": {
           "hr": "Alati i tehnologije: .NET Framework, Angular, C#, CSS, Docker, Git, HTML, JavaScript, MS Azure, MS SQL, MS SSMS, MS Teams, MS Visual Studio, MS VS Code, pgAdmin, PostgreSQL, SCSS, SourceTree, TypeScript.",
           "en": "Tools and technologies: .NET Framework, Angular, C#, CSS, Docker, Git, HTML, JavaScript, MS Azure, MS SQL, MS SSMS, MS Teams, MS Visual Studio, MS VS Code, pgAdmin, PostgreSQL, SCSS, SourceTree, TypeScript."
-        }
+        },
+        "link": ""
       },
       "experience_1": {
         "title": {
@@ -261,7 +265,8 @@
         "description_3": {
           "hr": "",
           "en": ""
-        }
+        },
+        "link": ""
       }
     }
   },
@@ -295,7 +300,8 @@
         "description_3": {
           "hr": "Alati i tehnologije: .NET Core, Azure DevOps, C#, CSS, Git, GPT, HTML, JavaScript, MS SQL, MS SSMS, MS Visual Studio, MS VS Code, React Native, React.JS, SCSS, SourceTree, SQLite, TypeScript.",
           "en": "Tools and technologies: .NET Core, Azure DevOps, C#, CSS, Git, GPT, HTML, JavaScript, MS SQL, MS SSMS, MS Visual Studio, MS VS Code, React Native, React.JS, SCSS, SourceTree, SQLite, TypeScript."
-        }
+        },
+        "link": ""
       },
       "project_3": {
         "title": {
@@ -320,7 +326,8 @@
         "description_3": {
           "hr": "Alati i tehnologije: .NET Framework, ASP.NET, C#, Git, GitHub, MS Visual Studio, SourceTree, SQLite, Windows Forms.",
           "en": "Tools and technologies: .NET Framework, ASP.NET, C#, Git, GitHub, MS Visual Studio, SourceTree, SQLite, Windows Forms."
-        }
+        },
+        "link": ""
       },
       "project_2": {
         "title": {
@@ -345,7 +352,8 @@
         "description_3": {
           "hr": "Alati i tehnologije: CSS, Git, GitHub, HTML, Laravel, MS SQL, MS SSMS, MS VS Code, PHP, SourceTree, Xampp.",
           "en": "Tools and technologies: CSS, Git, GitHub, HTML, Laravel, MS SQL, MS SSMS, MS VS Code, PHP, SourceTree, Xampp."
-        }
+        },
+        "link": ""
       },
       "project_1": {
         "title": {
@@ -370,7 +378,8 @@
         "description_3": {
           "hr": "Alati i tehnologije: .NET Framework, C#, Git, GitHub, MS SQL, MS SSMS, MS Visual Studio, SourceTree, Windows Forms.",
           "en": "Tools and technologies: .NET Framework, C#, Git, GitHub, MS SQL, MS SSMS, MS Visual Studio, SourceTree, Windows Forms."
-        }
+        },
+        "link": ""
       }
     }
   },
@@ -404,7 +413,8 @@
         "description_3": {
           "hr": "",
           "en": ""
-        }
+        },
+        "link": "https://learn.microsoft.com/en-us/users/karlohabdija-9628/credentials/524d5c51843fd818"
       }
     }
   },
