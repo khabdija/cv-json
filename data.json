@@ -19,6 +19,10 @@
     "pdf": {
       "hr": "Preuzmi PDF",
       "en": "Download PDF"
+    },
+    "language": {
+      "hr": "Change language",
+      "en": "Promijeni jezik"
     }
   },
 
@@ -167,13 +171,13 @@
         "percentage": "80%"
       },
       "skill_8": {
-        "hr": "HTML/CSS",
-        "en": "HTML/CSS",
+        "hr": "React Native",
+        "en": "React Native",
         "percentage": "80%"
       },
       "skill_9": {
-        "hr": "C++",
-        "en": "C++",
+        "hr": "HTML/CSS",
+        "en": "HTML/CSS",
         "percentage": "75%"
       },
       "skill_10": {
@@ -432,7 +436,7 @@
         "instagram": "https://instagram.com/karlohabdija"
       }
     },
-    "powered_by": {
+    "credits_1": {
       "section_title": {
         "hr": "Powered by ",
         "en": "Powered by "
@@ -441,6 +445,17 @@
       "company": {
         "hr": "INFOING",
         "en": "INFOING"
+      }
+    },
+    "credits_2": {
+      "section_title": {
+        "hr": " | Inspired by ",
+        "en": " | Inspired by "
+      },
+      "link": "https://www.w3schools.com/w3css/tryw3css_templates_cv.htm",
+      "company": {
+        "hr": "W3Schools",
+        "en": "W3Schools"
       }
     }
   },
