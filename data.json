@@ -38,7 +38,10 @@
           "en": "Faculty of Organization and Informatics Varaždin"
         },
         "year": {
-          "from": "2021",
+          "from": {
+            "hr": "2021",
+            "en": "2021"
+          },
           "to": {
             "hr": "2023",
             "en": "2023"
@@ -58,9 +61,9 @@
         },
         "thesis_2": {
           "hr": "Diplomski rad obranjen 14.09.2023.",
-          "en": "Thesis defended on 14.09.2023."
+          "en": "Thesis defended on September 14, 2023"
         },
-        "thesis_link": ""
+        "thesis_link": "https://repozitorij.unizg.hr/islandora/object/foi%3A7802"
       },
       "school_1": {
         "name": {
@@ -68,7 +71,10 @@
           "en": "Faculty of Organization and Informatics Varaždin"
         },
         "year": {
-          "from": "2018",
+          "from": {
+            "hr": "2018",
+            "en": "2018"
+          },
           "to": {
             "hr": "2021",
             "en": "2021"
@@ -88,9 +94,9 @@
         },
         "thesis_2": {
           "hr": "Završni rad obranjen 03.09.2021.",
-          "en": "Thesis defended on 03.09.2021."
+          "en": "Thesis defended on September 03, 2021"
         },
-        "thesis_link": ""
+        "thesis_link": "https://repozitorij.unizg.hr/islandora/object/foi:6580"
       }
     }
   },
@@ -200,7 +206,10 @@
           "en": "Software developer / Span d.d."
         },
         "duration": {
-          "from": "Jul 2024",
+          "from": {
+            "hr": "Srp 2024",
+            "en": "Jul 2024"
+          },
           "to": {
             "hr": "Trenutno",
             "en": "Current"
@@ -226,9 +235,12 @@
           "en": "Software developer / Ekobit d.o.o."
         },
         "duration": {
-          "from": "Jul 2022",
+          "from": {
+            "hr": "Srp 2022",
+            "en": "Jul 2022"
+          },
           "to": {
-            "hr": "Jun 2024",
+            "hr": "Lip 2024",
             "en": "Jun 2024"
           }
         },
@@ -252,9 +264,12 @@
           "en": "User account maintenance / Iskon Internet d.d."
         },
         "duration": {
-          "from": "Jul 2021",
+          "from": {
+            "hr": "Srp 2021",
+            "en": "Jul 2021"
+          },
           "to": {
-            "hr": "Jun 2022",
+            "hr": "Lip 2022",
             "en": "Jun 2022"
           }
         },
@@ -287,7 +302,10 @@
           "en": "Name TBD / Personal project"
         },
         "duration": {
-          "from": "Oct 2023",
+          "from": {
+            "hr": "Lis 2023",
+            "en": "Oct 2023"
+          },
           "to": {
             "hr": "Trenutno",
             "en": "Current"
@@ -313,7 +331,10 @@
           "en": "CryptoTracker / Personal project"
         },
         "duration": {
-          "from": "Feb 2022",
+          "from": {
+            "hr": "Velj 2022",
+            "en": "Feb 2022"
+          },
           "to": {
             "hr": "Trenutno",
             "en": "Current"
@@ -339,9 +360,12 @@
           "en": "CRM / Obitelji 3plus"
         },
         "duration": {
-          "from": "Oct 2021",
+          "from": {
+            "hr": "Lis 2021",
+            "en": "Oct 2021"
+          },
           "to": {
-            "hr": "Jun 2022",
+            "hr": "Lip 2022",
             "en": "Jun 2022"
           }
         },
@@ -365,9 +389,12 @@
           "en": "WareHome / FOI"
         },
         "duration": {
-          "from": "Mar 2021",
+          "from": {
+            "hr": "Ožu 2021",
+            "en": "Mar 2021"
+          },
           "to": {
-            "hr": "Jun 2021",
+            "hr": "Lip 2021",
             "en": "Jun 2021"
           }
         },
@@ -400,18 +427,21 @@
           "en": "Azure AI Engineer Associate / Microsoft"
         },
         "duration": {
-          "from": "May 2024",
+          "from": {
+            "hr": "Svi 2024",
+            "en": "May 2024"
+          },
           "to": {
-            "hr": "May 2025",
+            "hr": "Svi 2025",
             "en": "May 2025"
           }
         },
         "description_1": {
-          "hr": "Credential ID: 524D5C51843FD818",
+          "hr": "ID uvjerenja: 524D5C51843FD818",
           "en": "Credential ID: 524D5C51843FD818"
         },
         "description_2": {
-          "hr": "Earned on: May 13, 2024",
+          "hr": "Položeno: 13.05.2024.",
           "en": "Earned on: May 13, 2024"
         },
         "description_3": {
