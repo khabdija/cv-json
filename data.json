@@ -441,12 +441,12 @@
           "en": "Credential ID: 524D5C51843FD818"
         },
         "description_2": {
-          "hr": "Dizajniranje i implementacija Azure AI rješenja koristeći Azure AI services, Azure AI Search i Azure Open AI",
-          "en": "Designing and implementing an Azure AI solution using Azure AI services, Azure AI Search and Azure Open AI"
-        },
-        "description_3": {
           "hr": "Položeno: 13.05.2024.",
           "en": "Earned on: May 13, 2024"
+        },
+        "description_3": {
+          "hr": "Dizajniranje i implementacija Azure AI rješenja koristeći Azure AI services, Azure AI Search i Azure Open AI.",
+          "en": "Designing and implementing an Azure AI solution using Azure AI services, Azure AI Search and Azure Open AI."
         },
         "link": "https://learn.microsoft.com/en-us/users/karlohabdija-9628/credentials/524d5c51843fd818"
       }
