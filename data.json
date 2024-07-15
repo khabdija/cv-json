@@ -441,12 +441,12 @@
           "en": "Credential ID: 524D5C51843FD818"
         },
         "description_2": {
-          "hr": "Položeno: 13.05.2024.",
-          "en": "Earned on: May 13, 2024"
+          "hr": "Dizajniranje i implementacija Azure AI rješenja koristeći Azure AI services, Azure AI Search i Azure Open AI",
+          "en": "Designing and implementing an Azure AI solution using Azure AI services, Azure AI Search and Azure Open AI"
         },
         "description_3": {
-          "hr": "",
-          "en": ""
+          "hr": "Položeno: 13.05.2024.",
+          "en": "Earned on: May 13, 2024"
         },
         "link": "https://learn.microsoft.com/en-us/users/karlohabdija-9628/credentials/524d5c51843fd818"
       }
@@ -471,22 +471,22 @@
         "hr": "Powered by ",
         "en": "Powered by "
       },
-      "link": "http://www.infoing.hr/",
       "company": {
         "hr": "INFOING",
         "en": "INFOING"
-      }
+      },
+      "link": "http://www.infoing.hr/"
     },
     "credits_2": {
       "section_title": {
         "hr": " | Inspired by ",
         "en": " | Inspired by "
       },
-      "link": "https://www.w3schools.com/w3css/tryw3css_templates_cv.htm",
       "company": {
         "hr": "W3Schools",
         "en": "W3Schools"
-      }
+      },
+      "link": "https://www.w3schools.com/w3css/tryw3css_templates_cv.htm"
     }
   },
 
