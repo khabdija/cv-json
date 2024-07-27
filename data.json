@@ -17,8 +17,18 @@
       "en": "karlohabdija@gmail.com"
     },
     "pdf": {
-      "hr": "Preuzmi PDF",
-      "en": "Download PDF"
+      "loading": {
+        "hr": "Preuzmi PDF",
+        "en": "Download PDF"
+      },
+      "download": {
+        "hr": "Preuzmi PDF",
+        "en": "Download PDF"
+      },
+      "error": {
+        "hr": "Preuzmi PDF",
+        "en": "Download PDF"
+      }
     },
     "language": {
       "hr": "Change language",
@@ -487,6 +497,19 @@
         "en": "W3Schools"
       },
       "link": "https://www.w3schools.com/w3css/tryw3css_templates_cv.htm"
+    }
+  },
+
+  "cookies": {
+    "consent": {
+      "text": {
+        "hr": "Koristimo kolačiće kako bismo poboljšali vaše iskustvo. Nastavkom posjete ovoj stranici pristajete na našu upotrebu kolačića.",
+        "en": "We use cookies to enhance your experience. By continuing to visit this site, you agree to our use of cookies."
+      },
+      "button": {
+        "hr": "Prihvati",
+        "en": "Accept"
+      }
     }
   },
 
