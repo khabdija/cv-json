@@ -18,16 +18,16 @@
     },
     "pdf": {
       "loading": {
-        "hr": "Preuzmi PDF",
-        "en": "Download PDF"
+        "hr": "Učitavam dokument...",
+        "en": "Loading document..."
       },
       "download": {
         "hr": "Preuzmi PDF",
         "en": "Download PDF"
       },
       "error": {
-        "hr": "Preuzmi PDF",
-        "en": "Download PDF"
+        "hr": "Učitavanje neuspješno",
+        "en": "Loading failed"
       }
     },
     "language": {
