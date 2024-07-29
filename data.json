@@ -385,7 +385,7 @@
         },
         "description_2": {
           "hr": "Aplikacija je bila projektni zadatak za kolegij Analiza i razvoj programa na diplomskom studiju Fakulteta organizacije i informatike Varaždin.",
-          "en": "Application was a project task for Software Analysis and Design class at Faculty of Organization and Informatics Varaždin."
+          "en": "The application was a project task for Software Analysis and Design class at Faculty of Organization and Informatics Varaždin."
         },
         "description_3": {
           "hr": "Alati i tehnologije: CSS, Git, GitHub, HTML, Laravel, MS SQL, MS SSMS, MS VS Code, PHP, SourceTree, Xampp.",
@@ -414,7 +414,7 @@
         },
         "description_2": {
           "hr": "Aplikacija je bila projektni zadatak za kolegij Programsko inženjerstvo na preddiplomskom studiju Fakulteta organizacije i informatike Varaždin.",
-          "en": "Application was a project task for Software Engineering class at Faculty of Organization and Informatics Varaždin."
+          "en": "The application was a project task for Software Engineering class at Faculty of Organization and Informatics Varaždin."
         },
         "description_3": {
           "hr": "Alati i tehnologije: .NET Framework, C#, Git, GitHub, MS SQL, MS SSMS, MS Visual Studio, SourceTree, Windows Forms.",
@@ -442,8 +442,8 @@
           "en": "Designing, developing, implementing and maintaining a family business web application."
         },
         "description_2": {
-          "hr": "Web aplikacija je trenutno na svojoj trećoj verziji, potpuno redizajnirana i ponovo izrađena od temelja u srpnju 2024.",
-          "en": "Web application is currently on its third version, completely redesigned and rebuilt from scratch in July of 2024."
+          "hr": "Web aplikacija je trenutno na svojoj trećoj verziji, potpuno redizajnirana i ponovo izgrađena od temelja u srpnju 2024.",
+          "en": "The web application is currently on its third version, completely redesigned and rebuilt from scratch in July 2024."
         },
         "description_3": {
           "hr": "Alati i tehnologije: Azure DevOps, JavaScript, Git, MS VS Code, Plesk, React, SourceTree, Tailwind CSS.",
