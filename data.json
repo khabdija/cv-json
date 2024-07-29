@@ -234,8 +234,8 @@
           "en": "Same position as in Ekobit since it officially became part of Span."
         },
         "description_3": {
-          "hr": "Alati i tehnologije: .NET Framework, Angular, C#, CSS, Docker, Git, HTML, JavaScript, MS Azure, MS SQL, MS SSMS, MS Teams, MS Visual Studio, MS VS Code, pgAdmin, PostgreSQL, SCSS, SourceTree, TypeScript.",
-          "en": "Tools and technologies: .NET Framework, Angular, C#, CSS, Docker, Git, HTML, JavaScript, MS Azure, MS SQL, MS SSMS, MS Teams, MS Visual Studio, MS VS Code, pgAdmin, PostgreSQL, SCSS, SourceTree, TypeScript."
+          "hr": "Alati i tehnologije: .NET platforma, Angular, C#, CSS, Docker, Entity Framework, Git, HTML, JavaScript, MS Azure, MS SQL, MS SSMS, MS Teams, MS Visual Studio, MS VS Code, pgAdmin, PostgreSQL, SCSS, SourceTree, TypeScript.",
+          "en": "Tools and technologies: .NET platform, Angular, C#, CSS, Docker, Entity Framework, Git, HTML, JavaScript, MS Azure, MS SQL, MS SSMS, MS Teams, MS Visual Studio, MS VS Code, pgAdmin, PostgreSQL, SCSS, SourceTree, TypeScript."
         },
         "link": ""
       },
@@ -263,8 +263,8 @@
           "en": "Working mostly on internal projects for Ekobit and Span, mostly on the backend parts (.NET) and some frontend work also (Angular)."
         },
         "description_3": {
-          "hr": "Alati i tehnologije: .NET Framework, Angular, C#, CSS, Docker, Git, HTML, JavaScript, MS Azure, MS SQL, MS SSMS, MS Teams, MS Visual Studio, MS VS Code, pgAdmin, PostgreSQL, SCSS, SourceTree, TypeScript.",
-          "en": "Tools and technologies: .NET Framework, Angular, C#, CSS, Docker, Git, HTML, JavaScript, MS Azure, MS SQL, MS SSMS, MS Teams, MS Visual Studio, MS VS Code, pgAdmin, PostgreSQL, SCSS, SourceTree, TypeScript."
+          "hr": "Alati i tehnologije: .NET platforma, Angular, C#, CSS, Docker, Entity Framework, Git, HTML, JavaScript, MS Azure, MS SQL, MS SSMS, MS Teams, MS Visual Studio, MS VS Code, pgAdmin, PostgreSQL, SCSS, SourceTree, TypeScript.",
+          "en": "Tools and technologies: .NET platform, Angular, C#, CSS, Docker, Entity Framework, Git, HTML, JavaScript, MS Azure, MS SQL, MS SSMS, MS Teams, MS Visual Studio, MS VS Code, pgAdmin, PostgreSQL, SCSS, SourceTree, TypeScript."
         },
         "link": ""
       },
@@ -306,7 +306,7 @@
       "en": "Projects"
     },
     "all_projects": {
-      "project_4": {
+      "project_5": {
         "title": {
           "hr": "Name TBD / Osobni projekt",
           "en": "Name TBD / Personal project"
@@ -335,7 +335,7 @@
         },
         "link": ""
       },
-      "project_3": {
+      "project_4": {
         "title": {
           "hr": "CryptoTracker / Osobni projekt",
           "en": "CryptoTracker / Personal project"
@@ -364,7 +364,7 @@
         },
         "link": ""
       },
-      "project_2": {
+      "project_3": {
         "title": {
           "hr": "CRM / Obitelji 3plus",
           "en": "CRM / Obitelji 3plus"
@@ -393,7 +393,7 @@
         },
         "link": ""
       },
-      "project_1": {
+      "project_2": {
         "title": {
           "hr": "WareHome / FOI",
           "en": "WareHome / FOI"
@@ -421,6 +421,35 @@
           "en": "Tools and technologies: .NET Framework, C#, Git, GitHub, MS SQL, MS SSMS, MS Visual Studio, SourceTree, Windows Forms."
         },
         "link": ""
+      },
+      "project_1": {
+        "title": {
+          "hr": "Web aplikacija / INFOING d.o.o.",
+          "en": "Web application / INFOING d.o.o."
+        },
+        "duration": {
+          "from": {
+            "hr": "Lis 2017",
+            "en": "Oct 2017"
+          },
+          "to": {
+            "hr": "Trenutno",
+            "en": "Current"
+          }
+        },
+        "description_1": {
+          "hr": "Dizajniranje, izrada, implementacija i održavanje web aplikacije obiteljskog poduzeća.",
+          "en": "Designing, developing, implementing and maintaining a family business web application."
+        },
+        "description_2": {
+          "hr": "Web aplikacija je trenutno na svojoj trećoj verziji, potpuno redizajnirana i ponovo izrađena od temelja u srpnju 2024.",
+          "en": "Web application is currently on its third version, completely redesigned and rebuilt from scratch in July of 2024."
+        },
+        "description_3": {
+          "hr": "Alati i tehnologije: Azure DevOps, JavaScript, Git, MS VS Code, Plesk, React, SourceTree, Tailwind CSS.",
+          "en": "Tools and technologies: Azure DevOps, JavaScript, Git, MS VS Code, Plesk, React, SourceTree, Tailwind CSS."
+        },
+        "link": "https://www.infoing.hr/"
       }
     }
   },
