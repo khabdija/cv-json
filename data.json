@@ -322,11 +322,11 @@
           }
         },
         "description_1": {
-          "hr": "Dizajniranje, izrada, implementacija i održavanje full stack aplikacije za praćenje prihoda, rashoda te ukupne vrijednosti imovine.",
-          "en": "Designing, developing, implementing and maintaining a full stack application for tracking income, expenses and net worth."
+          "hr": "Dizajniranje, izrada, implementacija i održavanje full stack aplikacije za praćenje prihoda, rashoda te ukupne vrijednosti imovine s ciljem pružanja detaljnog odgovora na najvažnije pitanje: di su pare?",
+          "en": "Designing, developing, implementing and maintaining a full stack application for tracking income, expenses and net worth with a goal of providing a detailed answer to a crucial question: where's the money?"
         },
         "description_2": {
-          "hr": "Aplikacija je napravljna za osobno uporabu, no puštena je u produkciju na zahtjev mnogih prijatelja, kolega i članova obitelji.",
+          "hr": "Aplikacija je napravljena za osobno uporabu, no puštena je u produkciju na zahtjev mnogih prijatelja, kolega i članova obitelji.",
           "en": "The application was created for personal use, but was made public after many friends, collegues and family members requested it."
         },
         "description_3": {
