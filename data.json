@@ -306,6 +306,35 @@
       "en": "Projects"
     },
     "all_projects": {
+      "project_6": {
+        "title": {
+          "hr": "Wherepare / INFOING d.o.o.",
+          "en": "Wherepare / INFOING d.o.o."
+        },
+        "duration": {
+          "from": {
+            "hr": "Srp 2024",
+            "en": "Jul 2024"
+          },
+          "to": {
+            "hr": "Trenutno",
+            "en": "Current"
+          }
+        },
+        "description_1": {
+          "hr": "Dizajniranje, izrada, implementacija i održavanje full stack aplikacije za praćenje prihoda, rashoda te ukupne vrijednosti imovine.",
+          "en": "Designing, developing, implementing and maintaining a full stack application for tracking income, expenses and net worth."
+        },
+        "description_2": {
+          "hr": "Aplikacija je napravljna za osobno uporabu, no puštena je u produkciju na zahtjev mnogih prijatelja, kolega i članova obitelji.",
+          "en": "The application was created for personal use, but was made public after many friends, collegues and family members requested it."
+        },
+        "description_3": {
+          "hr": "Alati i tehnologije: ASP.NET, Azure DevOps, C#, JavaScript, Git, MS SQL, MS SSMS, MS Visual Studio, MS VS Code, Plesk, React, SourceTree, Tailwind CSS.",
+          "en": "Tools and technologies: ASP.NET, Azure DevOps, C#, JavaScript, Git, MS SQL, MS SSMS, MS Visual Studio, MS VS Code, Plesk, React, SourceTree, Tailwind CSS."
+        },
+        "link": "https://www.wherepare.com/"
+      },
       "project_5": {
         "title": {
           "hr": "Name TBD / Osobni projekt",
